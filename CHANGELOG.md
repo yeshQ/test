@@ -1,21 +1,6 @@
 # Changelog
 
-## 2.3.5
-- New Changelog
-## 2.3.1
 
-- Fix: CI pipeline release
-## 2.3.0
-
-- New: adding support for the `identity-providers` endpoint
-
-- New: adding support for the `questions` endpoint
-
-- New: The animated progress bar now also shows on download.
-
-- New: there's a new spinner feedback when waiting for server response.
-
-## 2.2.2
 
 - Fix: Various small improvements and bugfixes.
 ## 2.2.1
